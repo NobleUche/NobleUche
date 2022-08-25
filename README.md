@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @NobleUche
--  I’m interested in working on projects which would help humanity and currently open to web3 opportunities...
--  I'm a Back-end developer
-- 💞️ I’m looking to collaborate on alot of projects ...
-- 📫 You can reach me by email @ nobleuche28@gmail.com...
+- 👋 Hi, I’m @NobleUche aka Kryptcal⚙️
+- I actually love to play around with codes and fix bugs🌚
+- I’m interested in working on projects which would benefit Us😂
+- I'm currently delving into web3☺️ LFG🚀
+- I'm a Back-end/Software developer💜
+- I'm open to collab projects 🖤
+- Don't worry my tech stack is a bit confusing but we're alright☺️
 
 <!---
 NobleUche/NobleUche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
